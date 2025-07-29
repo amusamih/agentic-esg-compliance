@@ -1,5 +1,7 @@
 # Agentic AI System for ESG Compliance
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16585895.svg)](https://doi.org/10.5281/zenodo.16585895)
+
 This repository contains the codebase for the paper:
 **"An Agentic AI System for ESG Compliance and Responsible Sustainability Reporting"**.
 
