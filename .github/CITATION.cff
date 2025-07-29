@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the published paper once available. For archival purposes, you may reference the Zenodo release below."
+title: "Agentic AI System for ESG Compliance"
+version: "1.0.0"
+doi: 10.5281/zenodo.16585895
+date-released: 2025-07-30
+authors:
+  - name: amusamih
+repository-code: https://github.com/amusamih/agentic-esg-compliance
+license: MIT
